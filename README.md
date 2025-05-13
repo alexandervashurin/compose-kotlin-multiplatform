@@ -1,2 +1,2 @@
 # compose-kotlin-multiplatform
-Вариант десктопного приложения на Kotlin
+Мой вариант десктопного приложения на Kotlin
